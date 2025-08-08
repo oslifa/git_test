@@ -1,0 +1,4 @@
+Hello world!
+I have decided to study The Odin Project because I want to develop essential web
+development skills and build a portfolio to begin my career in front-end web
+development.
